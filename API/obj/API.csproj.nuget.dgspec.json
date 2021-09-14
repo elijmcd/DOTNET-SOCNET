@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\api\\API.csproj": {}
+    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\api\\API.csproj": {
+    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Eli James\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\api\\obj\\",
+        "outputPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
