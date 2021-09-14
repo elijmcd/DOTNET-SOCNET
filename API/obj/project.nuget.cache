@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f91sCEH09hHu4L1Cq7it7JgjfnBtVJDF1Yobe9wwh+VX42ud4J86vJQDCjapQ+Na5ozfw2XnpX5ENZXvoxWRWQ==",
+  "dgSpecHash": "6a3pjDq0VKiEQ2L9/B6BMbizYttpBW35f/cVsO+X6gIk9qWdEn0MmDzzHyVj+tUTZHKwFMEqQfy+xiGIHJ++iA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eli James\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.9\\microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -28,6 +29,8 @@
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Eli James\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",

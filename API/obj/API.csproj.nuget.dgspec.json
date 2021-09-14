@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {}
+    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {
+    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Eli James\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\obj\\",
+        "outputPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -25,6 +25,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
