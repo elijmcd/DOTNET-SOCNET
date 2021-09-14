@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {}
+    "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {
+    "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Eli James\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\obj\\",
+        "outputPath": "c:\\Users\\Eli James\\Desktop\\Projecting\\DOTNET-SOCNET\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -25,7 +25,6 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,6 +56,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.2, )"
             }
           },
           "imports": [
